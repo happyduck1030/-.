@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "user-items": "../../components/user-items/user-items"
+  }
+}

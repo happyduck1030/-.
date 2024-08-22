@@ -1,0 +1,1 @@
+<view class="content pageBg data-v-6bcfa975"><custom-nav-bar wx:if="{{a}}" class="data-v-6bcfa975" u-i="6bcfa975-0" bind:__l="__l" u-p="{{a}}"></custom-nav-bar><com-sepcial wx:if="{{b}}" class="data-v-6bcfa975" u-i="6bcfa975-1" bind:__l="__l" u-p="{{b}}"></com-sepcial></view>
